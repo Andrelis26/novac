@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [](url)
 <img width="1424" alt="Captura de Pantalla 2021-04-19 a la(s) 11 29 52 a  m" src="https://user-images.githubusercontent.com/53841609/115263050-15f0ab80-a103-11eb-8250-78fe88f98410.png">
 <img width="1422" alt="Captura de Pantalla 2021-04-19 a la(s) 11 30 07 a  m" src="https://user-images.githubusercontent.com/53841609/115264089-fefe8900-a103-11eb-850c-eff46045bbe3.png">
-<img width="1422" alt="Captura de Pantalla 2021-04-19 a la(s) 11 30 22 a  m" src="https://user-images.githubusercontent.com/53841609/115264408-471dab80-a104-11eb-8114-ad9770f75668.png">
+<img width="1416" alt="Captura de Pantalla 2021-04-19 a la(s) 11 30 22 a  m" src="https://user-images.githubusercontent.com/53841609/115265876-a8924a00-a105-11eb-86c3-273792324f9c.png">
 <img width="1421" alt="Captura de Pantalla 2021-04-19 a la(s) 11 30 33 a  m" src="https://user-images.githubusercontent.com/53841609/115264573-6ae0f180-a104-11eb-8471-9a3674bf8d92.png">
 <img width="1424" alt="Captura de Pantalla 2021-04-19 a la(s) 11 30 47 a  m" src="https://user-images.githubusercontent.com/53841609/115264805-a1b70780-a104-11eb-8d89-24430140b169.png">
 <img width="1424" alt="Captura de Pantalla 2021-04-19 a la(s) 11 31 07 a  m" src="https://user-images.githubusercontent.com/53841609/115264934-c317f380-a104-11eb-890a-c208d7cc98b3.png">
