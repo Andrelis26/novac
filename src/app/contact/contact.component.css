@@ -1,0 +1,38 @@
+#contact {
+    min-height: 50%;
+    background-color:#222225
+}
+#form {
+    margin-top: 6%;
+}
+label {
+    color: #ffff;
+}
+.btn-success {
+    color: #fff;
+    background-color: #29a4a5;
+    border-color: #29a4a5;
+    min-width: 20%;
+}
+h2 {
+    padding: 3%;
+}
+ul {
+    list-style: none;
+    color: #fff;
+    line-height: 4.2em;
+    /* margin-top: 5%; */
+    padding: 5%;
+    margin-left: 10%;
+}
+li i {
+    padding-right: 3%;
+}
+
+@media screen and (max-width: 767px) {
+   ul{
+      line-height: 2rem !important;
+      margin-left: 0 !important;
+      padding-left: 0 !important;
+   }
+}

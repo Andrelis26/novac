@@ -1,0 +1,21 @@
+#services {
+    background-image:url('/assets/images/back-white2/4850037.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+div.col-md-6 {
+    padding: 4%;
+    line-height: 2.1em;
+}
+h4 {
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+ul {
+    padding: 8%;
+    list-style: circle;
+}
+h2 {
+    padding: 3%;
+}

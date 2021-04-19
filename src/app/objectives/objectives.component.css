@@ -1,0 +1,43 @@
+.container-img {
+    width: 100%;
+}
+
+#circle-img {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding: 100% 0 0;
+    overflow: hidden;
+}
+#circle-img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+div.col-md-7 {
+    padding: 0 6%;
+  
+}
+div.col-md-5 {
+    padding-left: 5%;
+}
+.card > p {
+    padding: 10px 7%;
+    line-height: 2.1em;
+}
+h2 {
+    padding: 3%;
+}
+#card {
+    margin-top: 15%;
+}
+@media (min-width: 993px) {
+
+   div.col-md-7 {
+        flex: 0 0 58.333333% !important;
+        max-width: 58.333333% !important;
+    }
+}

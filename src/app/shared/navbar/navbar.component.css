@@ -1,0 +1,10 @@
+.navbar {
+    -webkit-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+
+.nav-link.active{
+    color: #2db0b1 !important;
+    font-weight: bold;
+}

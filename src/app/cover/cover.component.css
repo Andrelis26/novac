@@ -1,0 +1,37 @@
+#cover-img{
+    height: 100%;
+    position: relative;
+    background-image: url("/assets/images/cover3.jpg"); 
+}
+#cover-img:before {
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: rgb(43 94 92 / 75%)
+}
+.size-img{ 
+    width: 100%;
+    height: 50vh;
+    display: table;
+}
+.bg-parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+#cover-heading h3 {
+    display: table-cell;
+    color: rgb(255 255 255 / 77%);
+    font-size: 5vh;
+    font-weight: 400 !important;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 20vh;
+    margin-right: auto;
+    position: relative;
+}

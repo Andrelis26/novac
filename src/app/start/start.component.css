@@ -1,0 +1,53 @@
+
+#home-img{
+    height: 100%;
+    position: relative;
+    background-image: url("/assets/images/pexels-marily-torres-776615.jpg"); 
+}
+#home-img:before {
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: rgba(0, 0,0, 0.58) !important;
+}
+
+.size-img{ 
+    width: 100%;
+    height: 100vh;
+    display: table;
+}
+
+/* Parallax generic */
+.bg-parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+#home-heading h3 {
+    display: table-cell;
+    color: rgb(255 255 255 / 77%);
+    font-size: 4.5vh;
+    font-weight: 400 !important;
+    margin-left: auto;
+    text-align: center;
+    padding: 2% 2% 0;
+    margin-top: 20vh;
+    margin-right: auto;
+    position: relative;
+}
+#minimun h2 {
+    display: table-cell;
+    color:  #29a4a5;
+    font-size: 3.5vh;
+    margin-left: auto;
+    text-align: center;
+  
+    margin-right: auto;
+    position: relative;
+}
