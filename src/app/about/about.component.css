@@ -45,7 +45,7 @@
 #circle-img img {
     position: absolute;
     top: 0;
-    left: 40px;
+    left: 0;
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -67,6 +67,7 @@ ul {
     #image, #second, .hide-div{
        display: none !important;
    }
+ 
    div.col-md-5 {
         flex: 90% !important;
         max-width: 90% !important;
